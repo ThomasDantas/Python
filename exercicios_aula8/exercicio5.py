@@ -8,5 +8,3 @@ nome = input("Nome: ")
 cidade  = input("Cidade: ")
 curso = input("Curso: ")
 
-
-
