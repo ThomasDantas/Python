@@ -9,3 +9,4 @@ cidade  = input("Cidade: ")
 curso = input("Curso: ")
 
 
+
