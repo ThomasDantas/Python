@@ -1,0 +1,5 @@
+
+Lista de alunos: nome rambo da cidade sapiranga e de curso informatica;
+Lista de alunos: nome crash da cidade crash e de curso crahs;
+Lista de alunos: nome guilherme xavier da cidade bento e de curso informatica;
+Lista de alunos: nome guilherme junior da cidade bento e de curso sommelier;

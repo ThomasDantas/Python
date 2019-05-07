@@ -4,9 +4,8 @@
 arquivo = open("lista.txt", "r")
 
 for linha in arquivo.readlines():
-    linha.split("nome")[0]
-    if "g" in linha:
-        print('tem')
+    if "g" in linha.split("da")[0]:
+        print('tem: ', linha.split("da")[0])
     else:
         print("naotem")
     # print(linha)
