@@ -4,7 +4,14 @@
 # linha separadas por ponto e virgula “;”
 
 
-nome = input("Nome: ")
-cidade  = input("Cidade: ")
-curso = input("Curso: ")
+arquivo = open("lista.txt", "a")
 
+for i in range(1, 3):
+    nome = input("Nome: ")
+    cidade = input("Cidade: ")
+    curso = input("Curso: ")
+
+    frase = "Lista de alunos: nome {0} da cidade {1} e de curso {2};".format(
+        nome, cidade, curso)
+    arquivo.write("\n" + str(frase))
+arquivo.close()

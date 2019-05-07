@@ -1,0 +1,11 @@
+1
+Lista de alunos: nome tho1 da cidade sap1 e de curso inf1;2
+Lista de alunos: nome tho2 da cidade sap2 e de curso inf2;1
+Lista de alunos: nome thomas da cidade sapiranga e de curso informatica;2
+Lista de alunos: nome thomas dantas da cidade cb e de curso blalala;Lista de alunos: nome a da cidade a e de curso a;Lista de alunos: nome b da cidade b e de curso b;%d
+Lista de alunos: nome a da cidade a e de curso a;%d
+Lista de alunos: nome b da cidade b e de curso b;
+Lista de alunos: nome a da cidade a e de curso a;
+Lista de alunos: nome b da cidade b e de curso b;
+Lista de alunos: nome guilher da cidade sap1 e de curso inf;
+Lista de alunos: nome gustavo da cidade sap e de curso inf;
