@@ -6,11 +6,8 @@ dados = [("João", "98901-0109"),
 
 conexao = sqlite3.connect("agenda.db")
 cursor = conexao.cursor()
-cursor.executemany('''
- insert into agenda (nome, telefone)
- values(?, ?)
- ''', dados)
-
+cursor.execute("create table agenda(nome text, telefone text)")
+cursor.executemany("insert into agenda (nome, telefone)values(?, ?)", dados)
 
 conexao.commit()
 cursor.close()
