@@ -1,0 +1,4 @@
+Nome: teste1 da Cidade de teste1 e de Curso Informatica;
+Nome: teste2 da Cidade de teste2 e de Curso Informatica;
+Nome: thomas da Cidade de sapiranga e de Curso Quimica;
+Nome: arthur da Cidade de sapiranga e de Curso Informatica;
